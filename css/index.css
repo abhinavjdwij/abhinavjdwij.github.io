@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,0.75));
+}
+
+#coming__soon {
+    margin: auto;
+    width: 50%;
+    margin-top: 20% !important;
+    text-align: center;
+    color: #bf4545;
+    font-size: 1.75em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#coming__soon a {
+    text-decoration: none;
+    color:  #388055;
+}
